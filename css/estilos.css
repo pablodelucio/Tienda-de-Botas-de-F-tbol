@@ -1,0 +1,46 @@
+body {
+  background: #999999 none repeat scroll 0% 50%;
+}
+.lik {
+  border-style: double;
+  padding: 10px;
+  background-color: #66ff99;
+  line-height: 3.1em;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+.arriba {
+  border-style: double;
+  margin: auto;
+  background-color: #66ff99;
+  color: #000099;
+}
+.titulo {
+  border-style: double;
+  border-color: #990000;
+  overflow: visible;
+  background-color: #999999;
+  visibility: visible;
+  clear: left;
+}
+.lik:hover {
+  color: red;
+}
+.l {
+  border-style: none;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: capitalize;
+  line-height: 1.5em;
+  font-size: 1em;
+  background-color: #999999;
+}
+.m {
+  text-transform: none;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline overline ;
+  animation: blink 10s step-start infinite; 
+  color: #cc0000;
+}
+ 
